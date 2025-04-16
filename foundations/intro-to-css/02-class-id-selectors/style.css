@@ -1,0 +1,20 @@
+.Number1 {background-color: rgb(238, 130, 238);
+            font-family: verdana;
+            font-family: georgia;
+            font-family: sans-serif;
+        }
+
+.Number3 {background-color: rgb(238, 130, 238);
+            font-size: 24px;
+            font-family: Verdana;
+            font-family: Georgia;
+            font-family: sans-serif;
+        }
+#Number2 {color: blue;
+            font-size: 36px;
+        }
+
+#Number4 {background-color: greenyellow;
+            text-emphasis: bold;
+            font-size: 24px;
+        }
